@@ -5,7 +5,7 @@ lazy val commonSettings = Seq(
   organization := "org.monkeynuthead",
   version := "0.1.0",
   scalaVersion := "2.11.7",
-  sbtVersion := "0.13.8",
+  sbtVersion := "0.13.9",
   scalacOptions ++= Seq("-feature","-unchecked","-deprecation")
 )
 
