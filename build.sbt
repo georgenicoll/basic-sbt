@@ -4,8 +4,8 @@ val scalatest = "org.scalatest" %% "scalatest" % "2.2.5" % "test"
 lazy val commonSettings = Seq(
   organization := "org.monkeynuthead",
   version := "0.1.0",
-  scalaVersion := "2.11.7",
-  sbtVersion := "0.13.9",
+  scalaVersion := "2.11.8",
+  sbtVersion := "0.13.11",
   scalacOptions ++= Seq("-feature","-unchecked","-deprecation")
 )
 
