@@ -65,3 +65,6 @@ $RECYCLE.BIN/
 
 # IntelliJ
 .idea/
+
+# Backups
+*.bak
